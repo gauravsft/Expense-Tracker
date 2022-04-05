@@ -1,0 +1,53 @@
+form {
+    margin-left: 30%;
+
+}
+
+select {
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.inputp {
+    height: 25px;
+    width: 195px;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.input {
+    height: 400px;
+    width: 30%;
+    margin: auto;
+}
+
+#Submit {
+
+    height: 30px;
+    width: 205px;
+    border-radius: 5px;
+    background-color: blue;
+    margin-top: 20px;
+}
+
+#container {
+    display: grid;
+    width: 80%;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    border-radius: 5px;
+    margin: auto;
+    font-size: 22px;
+    color: white;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+#out {
+    background-color: black;
+}
